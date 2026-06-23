@@ -1,0 +1,9 @@
+Library Report
+
+Total Borrowings: 12
+Total Books: 18
+Total Users: 6
+
+Most Borrowed Book:
+Title: The Art of War
+Borrow Count: 3

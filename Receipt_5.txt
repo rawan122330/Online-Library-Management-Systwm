@@ -1,0 +1,8 @@
+Library Borrowing Receipt
+--------------------------
+Rental ID: 5
+User ID: 9
+Book ID: 5
+Borrow Date: 2024-12-05
+Return Date: 2027-01-01
+Status: returned
