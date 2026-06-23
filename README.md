@@ -37,6 +37,9 @@ A desktop-based Library Management System developed using Java Swing, MySQL, and
 ### Admin Dashboard
 ![Admin Dashboard](Screenshots/Admin-Dashboard.jpg)
 
+### Add Book
+![Add Book](Screenshots/Add-book.jpg)
+
 ### Member Management
 ![Member Management](Screenshots/Member-management.jpg)
 
